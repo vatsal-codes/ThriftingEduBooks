@@ -1,0 +1,77 @@
+ [
+  {
+    "id": 1,
+    "name": "Designing Data-Intensive Applications ",
+    "title": "Examines the benefits and drawbacks of various technologies for processing and storing data",
+    "price": 90,
+    "category": "CSE",
+    "image": "https://cdn.kobo.com/book-images/1fd60d1a-2d9e-409c-8ef2-88bd1724ae40/1200/1200/False/database-management-system.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Musculoskeletal Medicine & Physiotherapy",
+    "title": "Guide to the diagnosis and treatment of musculoskeletal disorders",
+    "price": 90,
+    "category": "PT",
+    "image": "https://cdn.kobo.com/book-images/fd641891-65fb-4197-bffb-e7cd94900926/353/569/90/False/advanced-techniques-in-musculoskeletal-medicine-physiotherapy-e-book.jpg"
+  },
+  {
+    "id": 3,
+    "name": "S & I of Computer Programs",
+    "title": "Teaches fundamentals of programming & implementation  ",
+    "price": 125,
+    "category": "CSE",
+    "image": "https://chaitinschool.org/images/3c09ef24.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Brain Computer Interface",
+    "title": "A communication channel bridging the human neural networks within the brain to the external world using DL",
+    "price": 345,
+    "category": "CSE",
+    "image": "https://m.media-amazon.com/images/I/81JV4SuBugL._AC_UF1000,1000_QL80_.jpg"
+
+  },
+   {
+     "id": 5,
+     "name": "Distributed Sys Node.js",
+     "title": "Intermediate to advanced Node.js developers will find themselves integrating application code with a breadth of tooling from each layer.",
+     "price": 745,
+     "category": "CSE",
+     "image": "https://m.media-amazon.com/images/I/81S87xwKCvL._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+
+   },
+   {
+     "id": 6,
+     "name": "Eloquent Javascript",
+     "title": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser ",
+     "price": 178,
+     "category": "CSE",
+     "image": "https://m.media-amazon.com/images/I/81HqVRRwp3L._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+   },
+   {
+     "id": 7,
+     "name": "Geriatric Physical Therapy",
+     "title": "Learn how to better manage common orthopedic, cardiopulmonary, and neurologic conditions",
+     "price": 288,
+     "category": "CSE",
+     "image": "https://m.media-amazon.com/images/I/51apJUKsaqL._SY466_.jpg"
+   },
+   {
+     "id": 8,
+     "name": "Manual Therapy of the Spine",
+     "title": "A perfect blend of theory and practice, this text uses an impairment-based approach",
+     "price": 187,
+     "category": "CSE",
+     "image": "https://m.media-amazon.com/images/I/61-3YGZVHIL._SY466_.jpg"
+   },
+  {
+    "id": 9,
+    "name": "Programming JS Apps",
+    "title": "Take advantage of JavaScript’s power to build robust web-scale or enterprise applications that are easy to extend and maintain.",
+    "price": 494,
+    "category": "CSE",
+    "image": "https://m.media-amazon.com/images/I/61Qr9qyUyuS._AC_UF1000,1000_QL80_DpWeblab_.jpg"
+  }
+
+]
